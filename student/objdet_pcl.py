@@ -35,6 +35,9 @@ import misc.objdet_tools as tools
 
 # visualize lidar point-cloud
 def show_pcl(pcl):
+    """
+    Taken from https://github.com/abhilash1910/nd0130-c2-fusion-starter-midterm/blob/enhancement/student/objdet_pcl.py
+    """
 
     ####### ID_S1_EX2 START #######     
     #######

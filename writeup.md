@@ -24,3 +24,6 @@ the following steps were necessary to complete the task:
 
 ### 4. Can you think of ways to improve your tracking results in the future?
 
+- One way to improve the tracking results is to fine-tune detection models on specific needs 
+- Other way is to use other fusion strategies e.g. early fusion, middle fusion, late fusion 
+
